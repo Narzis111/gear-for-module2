@@ -156,11 +156,11 @@ nav li a i {
     font-weight: 700;
 }
 
-.collection-card-1 .review .fa-star {
-    width: 11.068px;
-    height: 10.316px;
-    fill: #FB8200;
-    border-radius: 5px;
+h5{
+    color: #FB8200;
+}
+.collection span{
+    color: #787885;   
 }
 
 h6 {
